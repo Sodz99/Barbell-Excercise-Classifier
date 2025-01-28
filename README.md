@@ -1,13 +1,10 @@
-Here’s a revised version of your README, following **industry-standard GitHub conventions** with a more concise, modular, and professional approach: 
 
-```markdown
 # Weightlifting Exercise Tracker and Classifier
 
-![Project Status](https://img.shields.io/badge/status-Completed-brightgreen) ![Python](https://img.shields.io/badge/python-3.8%2B-blue) ![License](https://img.shields.io/badge/license-MIT-blue)
 
 A machine learning-based project that automates exercise classification, repetition counting, and form analysis using accelerometer and gyroscope data from wearable devices.
 
----
+
 
 ## 📌 Table of Contents
 - [Overview](#overview)
