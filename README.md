@@ -44,15 +44,21 @@ Strength training is essential for fitness, yet tracking free-weight exercises r
 - Required Libraries: `numpy`, `pandas`, `scikit-learn`, `matplotlib`, `seaborn`
 
 ### Steps to Set Up
-1. Clone this repository:
+1. Clone this repository using the following command:
    ```bash
-   git clone https://github.com/username/weightlifting-tracker.git
-   cd weightlifting-tracker
+   git clone https://github.com/Sodz99/Barbell-Excercise-Classifier.git
    ```
+2. Navigate to the project directory:
+   ```bash
+   cd Barbell-Excercise-Classifier
+   ```
+
+
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
+
 
 ---
 
