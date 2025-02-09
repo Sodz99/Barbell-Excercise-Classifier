@@ -98,9 +98,11 @@ Strength training is essential for fitness, yet tracking free-weight exercises r
 - **Participants**: 5 individuals performing barbell exercises (Bench Press, Squat, Deadlift, Overhead Press, Row)
 
 ![image](https://github.com/user-attachments/assets/f38c11e9-e1b4-4336-8077-0268c238ad2e)
+
 Fig. 2. Accelerometer Data from Exercise
 
 ![image](https://github.com/user-attachments/assets/f5c81383-49de-4fec-ac84-4bfda44cac67)
+
 Fig. 3. Medium and Heavy Weight Squats
 
 
@@ -120,18 +122,23 @@ Fig. 3. Medium and Heavy Weight Squats
    - Evaluation Metrics: Accuracy, Precision, Recall, F1-Score.
   
 ![image](https://github.com/user-attachments/assets/356e7d05-392b-465f-9553-c3650aa81b7e)
+
 Fig. 4. Low-pass Filter
 
 ![image](https://github.com/user-attachments/assets/d4018d65-abd2-471c-af39-09c397ba0aad)
+
 Fig. 6. Numerical temporal aggregation with window sizes of 2, 4, and 6 seconds
 
 ![image](https://github.com/user-attachments/assets/d3fa3a58-9f23-460d-992d-c2f0507e6c89)
+
 Fig. 5. Principal Component Number
 
 ![image](https://github.com/user-attachments/assets/7adb2b36-e187-4288-9eb0-14c42446917c)
+
 Fig. 7. Clusters
 
 ![image](https://github.com/user-attachments/assets/25e3fdd6-5a15-43a5-b522-17c256b52898)
+
 Fig. 9. Counting deadlift repetitions using the minimum values after applying a lowpass filter
 
 
@@ -141,9 +148,11 @@ Fig. 9. Counting deadlift repetitions using the minimum values after applying a 
 - **Repetition Counting**: ~5% error rate using scalar magnitude peaks.
 
 ![image](https://github.com/user-attachments/assets/ef471b82-4ef8-4ab8-bc03-9420ab7db1ef)
+
 Fig. 10. Model Performances
 
 ![image](https://github.com/user-attachments/assets/c425faf6-a51d-4ee8-b52f-5d6f2625db24)
+
 Fig 11. RF Classification Confusion Matrix
 
 
