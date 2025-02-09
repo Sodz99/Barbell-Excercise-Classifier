@@ -4,6 +4,9 @@
 
 A machine learning-based project that automates exercise classification, repetition counting, and form analysis using accelerometer and gyroscope data from wearable devices.
 
+![image](https://github.com/user-attachments/assets/1d23a878-8d68-4565-b7cc-c969a7dd55cc)
+
+
 
 
 ## 📌 Table of Contents
