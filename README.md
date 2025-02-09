@@ -11,6 +11,8 @@ Fig. 1. Basic Barbell Exercises
 
 
 
+
+
 ## 📌 Table of Contents
 - [Overview](#overview)
 - [Features](#features)
@@ -26,12 +28,16 @@ Fig. 1. Basic Barbell Exercises
 
 ---
 
+
+
 ## 📝 Overview
 
 Strength training is essential for fitness, yet tracking free-weight exercises remains underexplored. This project bridges the gap by leveraging **machine learning models** trained on wearable sensor data to replicate the functionality of a personal trainer, including:
 - Tracking exercises
 - Counting repetitions
 - Detecting improper form
+
+
 
 ## ✨ Features
 - **Exercise Recognition**: Classifies exercises (Bench Press, Deadlift, Squat, Overhead Press, and Row) with high accuracy.
@@ -41,6 +47,8 @@ Strength training is essential for fitness, yet tracking free-weight exercises r
 - **Advanced Feature Engineering**: Extracts temporal, frequency, and aggregated features for better predictions.
 
 ---
+
+
 
 ## ⚙️ Installation
 
@@ -67,6 +75,8 @@ Strength training is essential for fitness, yet tracking free-weight exercises r
 
 ---
 
+
+
 ## 🚀 Usage
 
 ### Run the Project
@@ -90,6 +100,8 @@ Strength training is essential for fitness, yet tracking free-weight exercises r
 
 ---
 
+
+
 ## 🔍 Project Details
 
 ### Dataset
@@ -104,6 +116,8 @@ Fig. 2. Accelerometer Data from Exercise
 ![image](https://github.com/user-attachments/assets/f5c81383-49de-4fec-ac84-4bfda44cac67)
 
 Fig. 3. Medium and Heavy Weight Squats
+
+
 
 
 ### Methodology
@@ -142,6 +156,8 @@ Fig. 7. Clusters
 Fig. 9. Counting deadlift repetitions using the minimum values after applying a lowpass filter
 
 
+
+
 ### Results
 - **Best Model**: Random Forest (Accuracy: 99.27%, F1-Score: 99.59%)
 - **Generalization**: Achieved 98.99% accuracy on unseen participant data.
@@ -159,12 +175,16 @@ Fig 11. RF Classification Confusion Matrix
 
 ---
 
+
+
 ## 📈 Future Enhancements
 - **Expand Dataset**: Increase diversity in participants and exercises.
 - **Real-Time Feedback**: Add live feedback mechanisms for exercise form and progress.
 - **Cross-Platform Compatibility**: Integrate with mobile and smartwatch applications.
 
 ---
+
+
 
 ## 👤 Author
 
